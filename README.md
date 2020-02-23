@@ -3,8 +3,13 @@ To-Do Application with NodeJS, Express and EJS using MongoDB and the  MVC Framew
 
 **How to run**
 
-Install
+Install 
+```
+npm install
+```
+
+Then run:
 ```
 node app.js
 ```
-then open http://localhost:3000/todo
+And finally open http://localhost:3000/todo
