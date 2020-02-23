@@ -3,7 +3,7 @@ To-Do Application with NodeJS, Express and EJS using MongoDB and the  MVC Framew
 
 **How to run**
 
-Install 
+Install: 
 ```
 npm install
 ```
